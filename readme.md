@@ -1,1 +1,1 @@
-API rest para armazenamento de dados cadastrais a serem consumnidos por aplicações de emissão de documentos.
+API rest para armazenamento de dados cadastrais a serem consumidos por aplicações de emissão de documentos.
